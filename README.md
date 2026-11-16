@@ -1,8 +1,11 @@
 # Java RMI Practical Project – Distributed Systems Module
 
 **Author:** Kosgei Ozni Kimutai
+
 **Institution:** Kabarak University
+
 **Course:** Distributed Systems
+
 **Project:** Java RMI and MySQL Student Record Management
 
 ## 1. Project Overview
