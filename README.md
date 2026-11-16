@@ -131,6 +131,24 @@ This practical demonstrates how Java RMI enables communication between distribut
 
 The project provides a practical introduction to remote method invocation, client-server communication, database connectivity, and the integration of application and database layers.
 
+## 8. Screenshots and Practical Evidence
+
+The following screenshots demonstrate the implementation and testing of the project.
+
+### Remote Mathematics Service
+![Math RMI Test](screenshots/math-rmi-test.png)
+
+### Database Connection Test
+![Database Connection](screenshots/database-connection-test.png)
+
+### Student RMI Server
+![Student RMI Server](screenshots/student-rmi-server.png)
+
+### Student RMI Client
+![Student RMI Client](screenshots/student-rmi-client.png)
+
+### MySQL Student Record
+![MySQL Student Record](screenshots/mysql-student-record.png)
 ---
 
 **Author:** Ozni Kimutai
